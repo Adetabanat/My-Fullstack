@@ -1,5 +1,5 @@
 export default function Page(){
     return (
-      <p>hi</p>
+      <p>Main Page</p>
     );
 }
