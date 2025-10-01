@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       '@prisma/client':
-        specifier: ^6.16.2
+        specifier: ^6.16.3
         version: 6.16.3(prisma@6.16.3(typescript@5.9.3))(typescript@5.9.3)
       next:
         specifier: 15.5.3
@@ -43,7 +43,7 @@ importers:
         specifier: 15.5.3
         version: 15.5.3(eslint@9.36.0(jiti@2.6.0))(typescript@5.9.3)
       prisma:
-        specifier: ^6.16.2
+        specifier: ^6.16.3
         version: 6.16.3(typescript@5.9.3)
       ts-node:
         specifier: ^10.9.2
